@@ -20,5 +20,4 @@ Also, please only submit files that have obtained max points on HackerRank.
 License
 ====================
 
-Licenses for the files are Apache License 2.0. Please also license contributions as Apache 2.0.
-More information can be found at http://www.apache.org/licenses/LICENSE-2.0.html
+You can do whatever you want.
