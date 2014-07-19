@@ -14,8 +14,7 @@ on HackerRank, you must change the class names to "Solution."
 How to contribute
 ====================
 
-You can contribute your own file with your own copyright notice, but please be Apache 2.0 so it doesn't become incredibly confusing.
-Also, please only submit files that have obtained max points on HackerRank.
+Please only submit files that have obtained max points on HackerRank with no licenses.
 
 License
 ====================
