@@ -1,3 +1,5 @@
+package AlgorithmTrack;
+
 import java.util.Scanner;
 
 public class FizzBuzz {

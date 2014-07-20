@@ -1,3 +1,5 @@
+package AlgorithmTrack.Warmup.UtopianTree;
+
 import java.util.Scanner;
 
 /**

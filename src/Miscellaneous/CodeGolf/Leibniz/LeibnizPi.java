@@ -1,3 +1,5 @@
+package Miscellaneous.CodeGolf.Leibniz;
+
 import java.util.Scanner;
 
 /**
